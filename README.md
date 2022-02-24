@@ -4,17 +4,19 @@
 
 <br/>
 
-📓 Contents:
-==============
+# 📓 Contents:
 
-    * [About](#About)
-        * [Features](#Features)
-    * [Contents](#Contents)
-    * [How to use](#How-to-use)
-        * [Prerequisites](#Prerequisites)
-        * [Running the project](#Running-the-project)
-    * [Tests](#Tests)
-    * [Technologies](#Technologies)
+- [About](#About)
+    - [Features](#Features)
+- [Contents](#Contents)
+- [How to use](#How-to-use)
+    - [Prerequisites](#Prerequisites)
+    - [Running the project](#Running-the-project)
+- [Tests](#Tests)
+- [Technologies](#Technologies)
+- [Icons](#Icons)
+
+<br/>
 
 # 📜 About:
 
@@ -55,6 +57,13 @@ $ `ctrl + j`
 # Run the project
 $ python <main.py>
 ```
+
+<br/>
+
+# Tests:
+<h1 align="center">
+    <img alt="Test" title="Test" src="./github/tests.gif" />
+</h1>
 
 <br/>
 
