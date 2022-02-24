@@ -60,10 +60,18 @@ $ python <main.py>
 
 <br/>
 
-# Tests:
+# ✔️ Tests:
 <h1 align="center">
     <img alt="Test" title="Test" src="./github/tests.gif" />
 </h1>
+
+<br/>
+
+# 🛠️ Technologies:
+
+The following tools were used in building the project:
+
+- [Python](https://www.python.org/)
 
 <br/>
 
@@ -73,3 +81,13 @@ $ python <main.py>
 - :up: update
 - :bug: bug fix
 - :checkered_flag: release
+
+<br/>
+
+---
+
+<p align="center">
+    Made with ❤️ by João Guilherme Bortoletto 👋
+    <br/>
+    [See my LinkedIn](https://www.linkedin.com/in/bortolettojoaog/)
+</p>
