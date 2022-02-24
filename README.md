@@ -6,15 +6,15 @@
 
 # 📓 Contents:
 
-- [About](#About)
+- About
     - [Features](#Features)
-- [Contents](#Contents)
-- [How to use](#How-to-use)
+- Contents,
+- How to use,
     - [Prerequisites](#Prerequisites)
     - [Running the project](#Running-the-project)
-- [Tests](#Tests)
-- [Technologies](#Technologies)
-- [Icons](#Icons)
+- Tests,
+- Technologies,
+- Icons.
 
 <br/>
 
