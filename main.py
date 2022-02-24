@@ -6,7 +6,7 @@ class GeneratePassword:
         self.chars = string.ascii_letters + string.digits + '!@#$%^&*()'
 
     def start(self):
-        answer = input('Would you like to generate a password?')
+        answer = input('Would you like to generate a password? ')
         try:
             if answer == 'yes' or answer == 'y':
                 os.system('cls')
