@@ -88,6 +88,8 @@ The following tools were used in building the project:
 
 <p align="center">
     Made with ❤️ by João Guilherme Bortoletto 👋
-    <br/>
-    [See my LinkedIn](https://www.linkedin.com/in/bortolettojoaog/)
 </p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/bortolettojoaog/">See my LinkedIn</a>
+</a>
